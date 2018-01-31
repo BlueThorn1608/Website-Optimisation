@@ -11,7 +11,7 @@ Udacity - Front-End Web Developer Nano Degree
   * The Application will be available on your work station. 
 
 ### 2. Direct Download 
-( _ Only if Method 1 doesn't work _ )
+_ (Only if Method 1 doesn't work) _
   * Go to the link provided -> [click me](https://github.com/BlueThorn1608/Website-Optimisation.git). 
   * Download the Zip File and **Extract** the contents into desired directory. 
 
