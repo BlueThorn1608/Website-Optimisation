@@ -550,9 +550,9 @@ document.addEventListener('DOMContentLoaded', function() {
   var movingPizza = document.getElementById('movingPizzas1');
   var windwHeight = window.screen.height ;
   var cols = 8;
-  var numberPizza = rows * cols ;
   var s = 256;
   var rows = windwHeight / s ;  
+  var numberPizza = rows * cols ;
   //Declaring variable 'elem' outside to reduce the number of times the variable is created 
   var elem ;
 
